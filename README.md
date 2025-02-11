@@ -1,6 +1,6 @@
 # 📌 Coffe Shop
 
-**Coffe Shop** projesi, [Öğrenim ] için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
+**Coffe Shop** projesi, için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
 
 ![Proje Görseli](coffe-shop-gif.gif)  
 
