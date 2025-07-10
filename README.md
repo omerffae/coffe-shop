@@ -1,22 +1,22 @@
-# 📌 Coffe Shop
+# 📌 Coffee Shop
 
-**Coffe Shop** projesi, için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
+**Coffee Shop** project is an open-source software created for demonstration purposes. 🚀  
 
-![Proje Görseli](coffe-shop-gif.gif)  
-
----
-
-## 🛠️ Özellikler
-
-- 🔹 **Özellik 1**: Sadece HTML5, CSS3 ile yazıldı .  
-- 🔹 **Özellik 2**: Görseller mevcut.  
-- 🔹 **Özellik 3**: Full responsive tasarımdır.  
+![Project Image](coffe-shop-gif.gif)  
 
 ---
 
-## 📚 Kurulum
+## 🛠️ Features
 
-1. Bu projeyi bilgisayarınıza klonlayın:  
+- 🔹 **Feature 1**: Built only with HTML5 and CSS3.  
+- 🔹 **Feature 2**: Includes images.  
+- 🔹 **Feature 3**: Fully responsive design.  
+
+---
+
+## 📚 Installation
+
+1. Clone this project to your computer:  
    ```bash
-   cd Klasör adı
+   cd FolderName
    git clone https://github.com/omerffae/coffe-shop.git
